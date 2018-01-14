@@ -1,0 +1,44 @@
+{
+  "name": "tslint-config-escapace",
+  "version": "1.0.0",
+  "description": "",
+  "files": [
+    "tslint.json"
+  ],
+  "scripts": {
+    "test:travis": "npm run test",
+    "test": "tslint --project tsconfig.json --config tslint.json",
+    "build": "echo \"Error: no build specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/escapace/tslint-config-escapace.git"
+  },
+  "keywords": [
+    "tslint",
+    "escapace",
+    "typescript"
+  ],
+  "peerDependencies": {
+    "tslint": "^5.9.1",
+    "tslint-config-prettier": "^1.6.0",
+    "tslint-config-standard": "^7.0.0",
+    "tslint-microsoft-contrib": "^5.0.2",
+    "typescript": "^2.6.2"
+  },
+  "main": "tslint.json",
+  "browsers": false,
+  "author": "escapace <opensource@escapace.com>",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/escapace/tslint-config-escapace/issues"
+  },
+  "homepage": "https://github.com/escapace/tslint-config-escapace#readme",
+  "dependencies": {
+    "tslint": "^5.9.1",
+    "tslint-config-prettier": "^1.6.0",
+    "tslint-config-standard": "^7.0.0",
+    "tslint-microsoft-contrib": "^5.0.2",
+    "typescript": "^2.6.2"
+  }
+}
