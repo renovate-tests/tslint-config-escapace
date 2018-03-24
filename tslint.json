@@ -8,6 +8,8 @@
     ],
     "jsRules": {},
     "rules": {
+      "no-void-expression": false,
+      "type-literal-delimiter": false,
       "no-http-string": false,
       "quotemark": [
         true,

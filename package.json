@@ -21,10 +21,10 @@
   ],
   "peerDependencies": {
     "tslint": "^5.9.1",
-    "tslint-config-prettier": "^1.6.0",
+    "tslint-config-prettier": "^1.10.0",
     "tslint-config-standard": "^7.0.0",
-    "tslint-microsoft-contrib": "^5.0.2",
-    "typescript": "^2.6.2"
+    "tslint-microsoft-contrib": "^5.0.3",
+    "typescript": "^2.7.2"
   },
   "main": "tslint.json",
   "browsers": false,
@@ -36,9 +36,9 @@
   "homepage": "https://github.com/escapace/tslint-config-escapace#readme",
   "dependencies": {
     "tslint": "^5.9.1",
-    "tslint-config-prettier": "^1.6.0",
+    "tslint-config-prettier": "^1.10.0",
     "tslint-config-standard": "^7.0.0",
-    "tslint-microsoft-contrib": "^5.0.2",
-    "typescript": "^2.6.2"
+    "tslint-microsoft-contrib": "^5.0.3",
+    "typescript": "^2.7.2"
   }
 }
