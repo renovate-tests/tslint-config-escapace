@@ -33,12 +33,5 @@
   "bugs": {
     "url": "https://github.com/escapace/tslint-config-escapace/issues"
   },
-  "homepage": "https://github.com/escapace/tslint-config-escapace#readme",
-  "dependencies": {
-    "tslint": "^5.9.1",
-    "tslint-config-prettier": "^1.10.0",
-    "tslint-config-standard": "^7.0.0",
-    "tslint-microsoft-contrib": "^5.0.3",
-    "typescript": "^2.8.1"
-  }
+  "homepage": "https://github.com/escapace/tslint-config-escapace#readme"
 }
