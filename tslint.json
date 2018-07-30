@@ -8,6 +8,9 @@
     ],
     "jsRules": {},
     "rules": {
+      "mocha-avoid-only": false,
+      "mocha-no-side-effect-code": false,
+      "mocha-unneeded-done": false,
       "no-void-expression": false,
       "type-literal-delimiter": false,
       "no-http-string": false,
