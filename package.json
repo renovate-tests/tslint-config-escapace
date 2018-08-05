@@ -20,11 +20,12 @@
     "typescript"
   ],
   "peerDependencies": {
-    "tslint": "^5.9.1",
-    "tslint-config-prettier": "^1.10.0",
+    "tslint": "^5.11.0",
+    "tslint-config-prettier": "^1.14.0",
     "tslint-config-standard": "^7.0.0",
-    "tslint-microsoft-contrib": "^5.0.3",
-    "typescript": "^2.8.1"
+    "tslint-microsoft-contrib": "^5.1.0",
+    "tslint-no-circular-imports": "^0.5.0",
+    "typescript": "^3.0.1"
   },
   "main": "tslint.json",
   "browsers": false,
